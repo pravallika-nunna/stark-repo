@@ -10,3 +10,5 @@ Classification: INTERNAL
 | A-455 | LEVEL 3 | Technical | ACTIVE |
 
 <!-- Roster is maintained manually. Add new agents at the bottom. -->
+| A-511 | LEVEL 2 | Logistics | ACTIVE |
+| A-527 | LEVEL 3 | Technical | ACTIVE |
