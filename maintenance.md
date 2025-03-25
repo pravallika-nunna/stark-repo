@@ -8,4 +8,4 @@
 
 ## NOTES
 Climate control at SITE-04 running above tolerance since September.
-Escalated to Technical Division. Awaiting parts.
+Escalated to Technical Division. Parts fitted 2025-03-14. Monitoring.
